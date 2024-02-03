@@ -7,6 +7,9 @@ Bem vindos a terceira edição da Semana do Herói! Aqui você encontra o códig
 ## Não esqueça de deixar uma ⭐ no repositório!
 
 
+# Inscrições abertas para nosso treinamento Hero Pro!! 
+Acesse o link e aproveite a oportunidade: [Acesse aqui](https://herocode.com.br/hero-pro?utm_campaign=github_repo_sh)
+
 ## Dúvidas e Suporte
 
 Toda nossa comunicação será feita na nossa comunidade no discord, então, é crucial você estar lá dentro para interagir e conhecer outros devs.
